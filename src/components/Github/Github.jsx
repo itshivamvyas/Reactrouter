@@ -32,6 +32,6 @@ const data = useLoaderData()
 export default Github
 
 export const githubInfoLoader = async ()=>{
-  const response = await fetch(`https://api.github.com/users/hrvsdev`)
-  return response.json
+  const response = await fetch(`https://api.github.com/users/itshivamvyas`)
+  return response.json()
 }
