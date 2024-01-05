@@ -18,11 +18,14 @@ export default function About() {
                         <p className="mt-6 text-gray-600">
                             Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eum omnis voluptatem
                             accusantium nemo perspiciatis delectus atque autem! Voluptatum tenetur beatae unde
-                            aperiam, repellat expedita consequatur! Officiis id consequatur atque doloremque!
+                            aperiam, repellat expedita consequatur! Officiis id consequatur atque doloremque! Lorem ipsum dolor, sit amet consectetur adipisicing elit. 
+                        </p>    
+                        <p className="mt-6 text-gray-600">    
+                            Laboriosam provident, quas quam magni, assumenda doloremque dicta esse necessitatibus accusantium ipsum, dolores exercitationem eveniet ea molestiae soluta molestias dolorum. Odio autem eius quae accusantium quia, dolor quis quisquam natus aliquam, esse, reprehenderit laboriosam ipsam magni quibusdam iure debitis. Recusandae quo, reprehenderit eos non ducimus harum fugit illum veritatis eaque, dolor reiciendis consequatur expedita cum eligendi labore autem laudantium nisi praesentium. At incidunt dolor exercitationem neque optio porro dolore reprehenderit voluptates quaerat laborum aliquid eius eveniet voluptatibus provident alias quam aut accusamus ipsam sapiente quis, autem dignissimos unde. Nesciunt assumenda recusandae laborm?
                         </p>
                         <p className="mt-4 text-gray-600">
                             Nobis minus voluptatibus pariatur dignissimos libero quaerat iure expedita at?
-                            Asperiores nemo possimus nesciunt dicta veniam aspernatur quam mollitia.
+                            Asperiores nemo possimus nesciunt dicta veniam aspernatur quam mollitia. Lorem ipsum dolor sit amet consectetur adipisicing elit. Est sapiente quod cumque amet excepturi quaerat enim saepe voluptate. Molestiae culpa ab veritatis! Officiis incidunt dignissimos ut vitae nulla expedita porro delectus, nisi perferendis at dicta ipsa laudantium dolor impedit? Ipsum, nostrum deserunt? Dolor quaerat, voluptate facilis quos reprehenderit doloremque optio.
                         </p>
                     </div>
                 </div>
