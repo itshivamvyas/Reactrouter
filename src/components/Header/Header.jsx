@@ -2,7 +2,7 @@ import { useState } from "react";
 import { Link, NavLink } from "react-router-dom";
 
 export default function Header() {
-   const [showNavbar, setShowNavbar] = useState(true)
+   const [showNavbar, setShowNavbar] = useState(false)
 
    const onLinkClick = ()=>setShowNavbar(false)
 
